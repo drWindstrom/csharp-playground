@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "playground": {
+      "commandName": "Project",
+      "commandLineArgs": "a b c the fox 3498324"
+    }
+  }
+}
